@@ -8,3 +8,12 @@ sum = num1 + num2
 
 # Display the sum
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+
+divide_by = num2 / num1
+# Display the  result
+print('The sum of {0} and {1} is {2}'.format(num1, num2, divide_by))
+
+sub = num2 - num1
+# Display the resultS
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sub))
+
